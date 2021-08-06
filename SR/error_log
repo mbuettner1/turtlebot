@@ -1,0 +1,330 @@
+[03-Jul-2021 19:30:15 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:30:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_num_row() in /home/zpzk4whrue2i/public_html/SR/home.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:31:31 UTC] PHP Notice:  Undefined variable: conn in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:31:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:31:31 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:32:35 UTC] PHP Notice:  Undefined variable: conn in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:32:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:32:35 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:36:05 UTC] PHP Notice:  Undefined variable: conn in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:36:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:36:05 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:36:06 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:36:35 UTC] PHP Notice:  Undefined variable: conn in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:36:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:36:35 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:37:28 UTC] PHP Notice:  Undefined variable: conn in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:37:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:37:28 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:37:30 UTC] PHP Notice:  Undefined variable: conn in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:37:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:37:30 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:38:39 UTC] PHP Notice:  Undefined variable: conn in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:38:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:38:39 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:38:41 UTC] PHP Notice:  Undefined variable: conn in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:38:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:38:41 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:38:41 UTC] PHP Notice:  Undefined variable: conn in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:38:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:38:41 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:38:49 UTC] PHP Notice:  Undefined variable: conn in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:38:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:38:49 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:38:50 UTC] PHP Fatal error:  Can't use function return value in write context in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:38:53 UTC] PHP Fatal error:  Can't use function return value in write context in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:38:59 UTC] PHP Notice:  Undefined variable: conn in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:38:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:38:59 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:42:39 UTC] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:42:40 UTC] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:43:11 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:43:13 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:43:14 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:43:35 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:43:58 UTC] PHP Parse error:  syntax error, unexpected 'include_once' (T_INCLUDE_ONCE) in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:43:59 UTC] PHP Parse error:  syntax error, unexpected 'include_once' (T_INCLUDE_ONCE) in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:44:00 UTC] PHP Parse error:  syntax error, unexpected 'include_once' (T_INCLUDE_ONCE) in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:44:08 UTC] PHP Parse error:  syntax error, unexpected 'include_once' (T_INCLUDE_ONCE) in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:44:08 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:44:09 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:44:09 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:44:48 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 19:44:48 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 19:44:48 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 10
+[03-Jul-2021 19:44:50 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 19:44:50 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 19:44:50 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 10
+[03-Jul-2021 19:46:02 UTC] PHP Warning:  require_once(.../includes/dbh.inc.php): failed to open stream: No such file or directory in /home/zpzk4whrue2i/public_html/SR/home.php on line 7
+[03-Jul-2021 19:46:02 UTC] PHP Fatal error:  require_once(): Failed opening required '.../includes/dbh.inc.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/zpzk4whrue2i/public_html/SR/home.php on line 7
+[03-Jul-2021 19:46:03 UTC] PHP Warning:  require_once(.../includes/dbh.inc.php): failed to open stream: No such file or directory in /home/zpzk4whrue2i/public_html/SR/home.php on line 7
+[03-Jul-2021 19:46:03 UTC] PHP Fatal error:  require_once(): Failed opening required '.../includes/dbh.inc.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/zpzk4whrue2i/public_html/SR/home.php on line 7
+[03-Jul-2021 19:46:35 UTC] PHP Warning:  require_once(../includes/dbh.inc.php): failed to open stream: No such file or directory in /home/zpzk4whrue2i/public_html/SR/home.php on line 7
+[03-Jul-2021 19:46:35 UTC] PHP Fatal error:  require_once(): Failed opening required '../includes/dbh.inc.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/zpzk4whrue2i/public_html/SR/home.php on line 7
+[03-Jul-2021 19:46:36 UTC] PHP Warning:  require_once(../includes/dbh.inc.php): failed to open stream: No such file or directory in /home/zpzk4whrue2i/public_html/SR/home.php on line 7
+[03-Jul-2021 19:46:36 UTC] PHP Fatal error:  require_once(): Failed opening required '../includes/dbh.inc.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/zpzk4whrue2i/public_html/SR/home.php on line 7
+[03-Jul-2021 19:46:37 UTC] PHP Warning:  require_once(../includes/dbh.inc.php): failed to open stream: No such file or directory in /home/zpzk4whrue2i/public_html/SR/home.php on line 7
+[03-Jul-2021 19:46:37 UTC] PHP Fatal error:  require_once(): Failed opening required '../includes/dbh.inc.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/zpzk4whrue2i/public_html/SR/home.php on line 7
+[03-Jul-2021 19:47:49 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:48:03 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:48:14 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:48:25 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:49:02 UTC] PHP Warning:  include(../includes/dbh.inc.php): failed to open stream: No such file or directory in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:49:02 UTC] PHP Warning:  include(): Failed opening '../includes/dbh.inc.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:49:02 UTC] PHP Notice:  Undefined variable: conn in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:49:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:49:02 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 10
+[03-Jul-2021 19:49:12 UTC] PHP Warning:  include(../includes/dbh.inc.php): failed to open stream: No such file or directory in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:49:12 UTC] PHP Warning:  include(): Failed opening '../includes/dbh.inc.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:49:12 UTC] PHP Notice:  Undefined variable: conn in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:49:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:49:12 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 10
+[03-Jul-2021 19:49:34 UTC] PHP Warning:  include_once(../includes/dbh.inc.php): failed to open stream: No such file or directory in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:49:34 UTC] PHP Warning:  include_once(): Failed opening '../includes/dbh.inc.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:49:34 UTC] PHP Notice:  Undefined variable: conn in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:49:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:49:34 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 10
+[03-Jul-2021 19:49:46 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 19:49:46 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 19:49:46 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 10
+[03-Jul-2021 19:50:37 UTC] PHP Warning:  include(../includes/dbh.inc.php): failed to open stream: No such file or directory in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:50:37 UTC] PHP Warning:  include(): Failed opening '../includes/dbh.inc.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:50:37 UTC] PHP Notice:  Undefined variable: conn in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:50:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:50:37 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 10
+[03-Jul-2021 19:50:40 UTC] PHP Warning:  include(../includes/dbh.inc.php): failed to open stream: No such file or directory in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:50:40 UTC] PHP Warning:  include(): Failed opening '../includes/dbh.inc.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:50:40 UTC] PHP Notice:  Undefined variable: conn in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:50:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:50:40 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 10
+[03-Jul-2021 19:51:18 UTC] PHP Warning:  include(../includes/dbh.inc.php): failed to open stream: No such file or directory in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:51:18 UTC] PHP Warning:  include(): Failed opening '../includes/dbh.inc.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:51:18 UTC] PHP Notice:  Undefined variable: conn in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:51:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:51:18 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 10
+[03-Jul-2021 19:51:19 UTC] PHP Warning:  include(../includes/dbh.inc.php): failed to open stream: No such file or directory in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:51:19 UTC] PHP Warning:  include(): Failed opening '../includes/dbh.inc.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:51:19 UTC] PHP Notice:  Undefined variable: conn in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:51:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:51:19 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 10
+[03-Jul-2021 19:51:55 UTC] PHP Warning:  include(../includes/dbh.inc.php): failed to open stream: No such file or directory in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:51:55 UTC] PHP Warning:  include(): Failed opening '../includes/dbh.inc.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:51:55 UTC] PHP Notice:  Undefined variable: conn in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:51:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:51:55 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 10
+[03-Jul-2021 19:51:57 UTC] PHP Warning:  include(../includes/dbh.inc.php): failed to open stream: No such file or directory in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:51:57 UTC] PHP Warning:  include(): Failed opening '../includes/dbh.inc.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:51:57 UTC] PHP Notice:  Undefined variable: conn in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:51:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:51:57 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 10
+[03-Jul-2021 19:52:49 UTC] PHP Warning:  include(../includes/dbh.inc.php): failed to open stream: No such file or directory in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:52:49 UTC] PHP Warning:  include(): Failed opening '../includes/dbh.inc.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:52:49 UTC] PHP Notice:  Undefined variable: conn in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:52:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:52:49 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 10
+[03-Jul-2021 19:52:49 UTC] PHP Notice:  Undefined variable: row in /home/zpzk4whrue2i/public_html/SR/home.php on line 20
+[03-Jul-2021 19:52:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/zpzk4whrue2i/public_html/SR/home.php on line 20
+[03-Jul-2021 19:52:49 UTC] PHP Notice:  Undefined variable: row in /home/zpzk4whrue2i/public_html/SR/home.php on line 22
+[03-Jul-2021 19:52:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/zpzk4whrue2i/public_html/SR/home.php on line 22
+[03-Jul-2021 19:52:56 UTC] PHP Warning:  include(../includes/dbh.inc.php): failed to open stream: No such file or directory in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:52:56 UTC] PHP Warning:  include(): Failed opening '../includes/dbh.inc.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:52:56 UTC] PHP Notice:  Undefined variable: conn in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:52:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:52:56 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 10
+[03-Jul-2021 19:52:56 UTC] PHP Notice:  Undefined variable: row in /home/zpzk4whrue2i/public_html/SR/home.php on line 20
+[03-Jul-2021 19:52:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/zpzk4whrue2i/public_html/SR/home.php on line 20
+[03-Jul-2021 19:52:56 UTC] PHP Notice:  Undefined variable: row in /home/zpzk4whrue2i/public_html/SR/home.php on line 22
+[03-Jul-2021 19:52:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/zpzk4whrue2i/public_html/SR/home.php on line 22
+[03-Jul-2021 19:52:57 UTC] PHP Warning:  include(../includes/dbh.inc.php): failed to open stream: No such file or directory in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:52:57 UTC] PHP Warning:  include(): Failed opening '../includes/dbh.inc.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/zpzk4whrue2i/public_html/SR/home.php on line 3
+[03-Jul-2021 19:52:57 UTC] PHP Notice:  Undefined variable: conn in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:52:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zpzk4whrue2i/public_html/SR/home.php on line 9
+[03-Jul-2021 19:52:57 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 10
+[03-Jul-2021 19:54:10 UTC] PHP Warning:  require_once(../includes/dbh.inc.php): failed to open stream: No such file or directory in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:54:10 UTC] PHP Fatal error:  require_once(): Failed opening required '../includes/dbh.inc.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:54:12 UTC] PHP Warning:  require_once(../includes/dbh.inc.php): failed to open stream: No such file or directory in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:54:12 UTC] PHP Fatal error:  require_once(): Failed opening required '../includes/dbh.inc.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:54:26 UTC] PHP Warning:  require_once(../includes/dbh.inc.php): failed to open stream: No such file or directory in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:54:26 UTC] PHP Fatal error:  require_once(): Failed opening required '../includes/dbh.inc.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:54:40 UTC] PHP Warning:  require_once(../includes/dbh.inc.php): failed to open stream: No such file or directory in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:54:40 UTC] PHP Fatal error:  require_once(): Failed opening required '../includes/dbh.inc.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/zpzk4whrue2i/public_html/SR/home.php on line 8
+[03-Jul-2021 19:54:48 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 19:54:48 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 19:54:48 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 11
+[03-Jul-2021 19:55:00 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 19:55:00 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 19:55:00 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 11
+[03-Jul-2021 19:55:22 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 19:55:22 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 19:55:22 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 11
+[03-Jul-2021 19:55:23 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 18
+[03-Jul-2021 19:55:33 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 18
+[03-Jul-2021 19:55:38 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 18
+[03-Jul-2021 19:55:43 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 18
+[03-Jul-2021 19:56:00 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 18
+[03-Jul-2021 19:58:17 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 17
+[03-Jul-2021 20:00:45 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 21
+[03-Jul-2021 20:00:48 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 21
+[03-Jul-2021 20:00:52 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 0 given in /home/zpzk4whrue2i/public_html/SR/home.php on line 21
+[03-Jul-2021 20:10:00 UTC] PHP Notice:  Undefined variable: conn in /home/zpzk4whrue2i/public_html/SR/home.php on line 21
+[03-Jul-2021 20:10:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zpzk4whrue2i/public_html/SR/home.php on line 21
+[03-Jul-2021 20:10:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/zpzk4whrue2i/public_html/SR/home.php on line 22
+[03-Jul-2021 20:10:35 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:10:35 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:10:38 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:10:38 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:10:55 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:10:55 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:11:04 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:11:04 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:11:05 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:11:05 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:11:06 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:11:06 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:11:25 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:11:25 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:11:26 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:11:26 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:11:27 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:11:27 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:11:32 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:11:32 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:11:32 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:11:32 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:11:33 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:11:33 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:11:34 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:11:34 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:11:35 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:11:35 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:11:35 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:11:35 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:11:36 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:11:36 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:12:18 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:12:18 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:12:19 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:12:19 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:12:20 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:12:20 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:12:32 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:12:32 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:38 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:38 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:39 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:39 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:40 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:40 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:41 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:41 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:41 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:41 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:42 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:42 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:43 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:43 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:43 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:43 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:44 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:44 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:45 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:45 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:46 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:46 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:46 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:46 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:47 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:47 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:48 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:48 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:48 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:48 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:49 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:49 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:50 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:50 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:50 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:50 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:51 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:51 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:52 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:52 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:52 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:52 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:53 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:53 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:54 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:54 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:54 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:54 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:55 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:55 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:55 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:55 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:56 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:56 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:57 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:57 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:57 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:57 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:58 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:58 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:58 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:58 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:13:59 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:13:59 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:14:00 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:14:00 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:14:00 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:14:00 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:14:01 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:14:01 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:14:01 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:14:01 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:14:02 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:14:02 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:14:02 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:14:02 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:14:03 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:14:03 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:14:03 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:14:04 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:14:04 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:14:04 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:14:05 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:14:05 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:14:05 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:14:05 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:14:06 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:14:06 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:14:06 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:14:06 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:14:07 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:14:07 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:14:07 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:14:07 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:14:08 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:14:08 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:14:08 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:14:08 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:14:09 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:14:09 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:14:09 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:14:09 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[03-Jul-2021 20:14:10 UTC] PHP Notice:  Undefined index: temp in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 14
+[03-Jul-2021 20:14:10 UTC] PHP Notice:  Undefined index: humidity in /home/zpzk4whrue2i/public_html/SR/includes/dbh.inc.php on line 15
+[02-Aug-2021 22:36:57 UTC] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/zpzk4whrue2i/public_html/SR/home.php on line 56
+[02-Aug-2021 22:36:58 UTC] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/zpzk4whrue2i/public_html/SR/home.php on line 56
+[02-Aug-2021 22:36:59 UTC] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/zpzk4whrue2i/public_html/SR/home.php on line 56
+[02-Aug-2021 22:39:57 UTC] PHP Parse error:  syntax error, unexpected '$ip' (T_VARIABLE), expecting ';' or ',' in /home/zpzk4whrue2i/public_html/SR/home.php on line 57
+[02-Aug-2021 22:40:00 UTC] PHP Parse error:  syntax error, unexpected '$ip' (T_VARIABLE), expecting ';' or ',' in /home/zpzk4whrue2i/public_html/SR/home.php on line 57
+[02-Aug-2021 22:40:17 UTC] PHP Parse error:  syntax error, unexpected '$ip' (T_VARIABLE), expecting ';' or ',' in /home/zpzk4whrue2i/public_html/SR/home.php on line 57
+[02-Aug-2021 22:40:19 UTC] PHP Parse error:  syntax error, unexpected '$ip' (T_VARIABLE), expecting ';' or ',' in /home/zpzk4whrue2i/public_html/SR/home.php on line 57
+[02-Aug-2021 22:40:21 UTC] PHP Parse error:  syntax error, unexpected '$ip' (T_VARIABLE), expecting ';' or ',' in /home/zpzk4whrue2i/public_html/SR/home.php on line 57
+[02-Aug-2021 22:40:22 UTC] PHP Parse error:  syntax error, unexpected '$ip' (T_VARIABLE), expecting ';' or ',' in /home/zpzk4whrue2i/public_html/SR/home.php on line 57
+[02-Aug-2021 22:44:31 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /home/zpzk4whrue2i/public_html/SR/home.php on line 58
+[02-Aug-2021 22:49:30 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /home/zpzk4whrue2i/public_html/SR/home.php on line 73
+[02-Aug-2021 22:49:33 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /home/zpzk4whrue2i/public_html/SR/home.php on line 73
